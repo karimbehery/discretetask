@@ -1,0 +1,7 @@
+C:\Users\karim\source\repos\perfect number project\bin\Debug\perfect number project.exe.config
+C:\Users\karim\source\repos\perfect number project\bin\Debug\perfect number project.exe
+C:\Users\karim\source\repos\perfect number project\bin\Debug\perfect number project.pdb
+C:\Users\karim\source\repos\perfect number project\obj\Debug\perfect number project.csproj.AssemblyReference.cache
+C:\Users\karim\source\repos\perfect number project\obj\Debug\perfect number project.csproj.CoreCompileInputs.cache
+C:\Users\karim\source\repos\perfect number project\obj\Debug\perfect number project.exe
+C:\Users\karim\source\repos\perfect number project\obj\Debug\perfect number project.pdb
